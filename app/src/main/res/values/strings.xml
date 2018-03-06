@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SmallApp</string>
+    <string name="login">Login</string>
+    <string name="pruebabp">SmallApp</string>
+    <string name="unknown_user">Wrong User</string>
+    <string name="unknown_pass">Wrong Password</string>
+    <string name="baseUrl">yourURL</string>
+    <string name="required_fields">Fields missing</string>
+    <string name="error">Error, check your connection</string>
+    <string name="welcome">Welcome %1$s!</string>
+    <string name="numeros_suma">Add your numbers!</string>
+    <string name="usuario">User</string>
+    <string name="nameUser"><b>Name</b>: %1$s %2$s %3$s</string>
+    <string name="edadUser"><b>Age</b>: %1$s</string>
+    <string name="hobbiesUser"><b>Hobbies</b>: %1$s, %2$s, %3$s, %4$s</string>
+    <string name="sended">Email sent!</string>
+    <string name="logOut">Sign Out</string>
+    <string name="total_suma">Total sum is: <b>%1$d</b></string>
+    <string name="noInternet">There is no internet connection</string>
+    <string name="invalidateEmails">Invalid Email</string>
+</resources>
